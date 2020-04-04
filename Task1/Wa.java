@@ -1,5 +1,3 @@
-package com.test;
-
 public class Wa extends W {
 	
 	public Wa(Integer[] A, Integer[] B, Integer[] C) {
