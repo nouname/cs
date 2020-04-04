@@ -1,5 +1,3 @@
-package com.test;
-
 public class W {
 	Integer[] A, B, C;
 	 
