@@ -1,5 +1,3 @@
-package com.test;
-
 import java.util.*;
 import java.util.concurrent.*;
 
